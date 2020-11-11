@@ -4,8 +4,7 @@ Informations about touristic places in Turkey.
 
 ## Technologies used
 
-MVC Design Pattern 
-
+- MVC Design Pattern
 - UITableView
 - UICollectionView
 - Onboarding Screen
